@@ -1,2 +1,1 @@
-print("hellogit add ." \
-"")
+print("hello")
